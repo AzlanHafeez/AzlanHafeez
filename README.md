@@ -53,8 +53,8 @@ I owe much of my growth and understanding in technology to my esteemed teacher, 
 
 ---
 ## 📫 Let's Connect!
-- **GitHub**: [Your GitHub Link](#)
-- **Email**: [Your Email Address](#)
+- **GitHub**: [Azlan hafeez]([#](https://github.com/AzlanHafeez))
+- **Email**: [azlanhafeez329@gmail.com](azlanhafeez329@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](#)
 
 ---
