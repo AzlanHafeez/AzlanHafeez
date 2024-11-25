@@ -54,7 +54,7 @@ Check out my https://github.com/AzlanHafeez?tab=repositories(https://github.com/
 ## 📫 Let's Connect!
 - **GitHub**: https://github.com/AzlanHafeez(https://github.com/AzlanHafeez)
 - **Email**: azlanhafeez329@gmail.com(azlanhafeez329@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**: https://www.linkedin.com/in/azlan-hafeez(https://www.linkedin.com/in/azlan-hafeez-10a27133a/)
 
 ---
 
