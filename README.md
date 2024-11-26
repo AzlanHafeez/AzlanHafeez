@@ -15,7 +15,9 @@ Hello, I'm **Azlan Hafeez** — a **Full-Stack Web Developer** passionate about 
 
 
 ## ⚙️ My Skillset
-### Frontend <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt=""> <br>
+
+### Frontend 
 - **Languages & Frameworks**: HTML, CSS, JavaScript, Bootstrap 4
 - **Expertise**: Responsive design, UI/UX principles, cross-browser compatibility
 
