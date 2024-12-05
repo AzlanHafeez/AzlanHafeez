@@ -1,10 +1,14 @@
 # 🌟 Welcome to My Digital Playground! 👋
+
 <br>
 <a href="https://github.com/itsaami">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=👨‍💻+Full+Stack+Developer;🌟+Whatsapp+Bot+Deployer;🎯+Dream:+Cyber+Security+Expert;📚+Learning:+New+Technologies;+🚀+Professional+Growth+Journey;🔗+GitHub+Profile:+AzlanHafeez&font=Roboto&size=28&duration=3500&pause=500&center=true&vCenter=true&width=800&height=70&color=007bff">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=;🌟+Whatsapp+Bot+Deployer;🎯+Dream:+Cyber+Security+Expert;📚+Learning:+New+Technologies;+🚀+Professional+Growth+Journey;+Full+Stack+Developer;🔗+GitHub+Profile:+AzlanHafeez&font=Roboto&size=28&duration=3500&pause=500&center=true&vCenter=true&width=800&height=70&color=007bff">
 </a>
 
 <br>
+
+# 👋 I'm Azlan Hafeez! 👋
+
 <br>
 Hello, I'm **Azlan Hafeez** — a **Full-Stack Web Developer** passionate about turning ideas into impactful digital solutions. Whether it's crafting sleek frontends or building robust backends, I thrive on solving problems through code.
 
